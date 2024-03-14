@@ -1,0 +1,26 @@
+.btn-primary {
+    background-color: greenyellow;
+}
+
+.btn-secondary{
+    background-color: purple;
+}
+
+#kep{
+width: 150px;
+
+}
+.container{
+    color: aqua;
+    font-size: 50px;
+    text-decoration: solid;
+    text-align: center;
+}
+
+.container5{
+    color: rgb(155, 0, 175);
+    text-decoration: solid;
+    text-align: center;
+    font-size: 25px;
+    font-family:'Courier New', Courier, monospace ;
+}
